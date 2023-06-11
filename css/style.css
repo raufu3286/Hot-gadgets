@@ -13,3 +13,6 @@
 .carousel-item{
     margin-bottom: 80px;
 }
+.card{
+    border: none;
+}

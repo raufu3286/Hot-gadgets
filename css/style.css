@@ -1,0 +1,7 @@
+.navbar-expand-md .navbar-collapse {
+    justify-content: end;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+}

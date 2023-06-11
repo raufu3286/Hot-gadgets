@@ -5,3 +5,11 @@
     font-size: 20px;
     font-weight: bold;
 }
+.carousel-indicators [data-bs-target]{
+    background-color: #FDC830;
+    padding: 1 px;
+
+}
+.carousel-item{
+    margin-bottom: 80px;
+}
